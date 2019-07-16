@@ -17,5 +17,5 @@ To install this project:
 This project is self-maintaining therefore if errors occur let me know.
 
 
-
+![AccuWeather](https://upload.wikimedia.org/wikipedia/commons/2/2e/AccuWeather_Logo.svg)
 
